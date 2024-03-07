@@ -7,7 +7,7 @@ The source code in this repository has been used to teach a Next.js topic. Pleas
 
 ## Running the app locally
 
-First,install the dependencies
+First, install the dependencies
 
 ```bash
 npm install
