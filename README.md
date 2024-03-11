@@ -2,7 +2,7 @@
 
 The source code in this repository has been used to teach a Next.js topic. Please find the video from here:
 
-<a href="https://youtu.be/X9_XqeqWBR0" title="How to Fork"><img src="Next.js-multiple-root-layouts.png" alt="image" height="auto" width="100%"/></a>
+<a href="https://youtu.be/X9_XqeqWBR0" title="multiple-root-layout"><img src="Next.js-multiple-root-layouts.png" alt="image" height="auto" width="100%"/></a>
 
 
 ## Running the app locally
@@ -33,5 +33,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Full Stack With Next.js App Router](https://www.youtube.com/watch?v=VSB2h7mVhPg&list=PLIJrr73KDmRwz_7QUvQ9Az82aDM9I8L_8) - A Playlist
+- [Full Stack With Next.js App Router](https://www.youtube.com/watch?v=VSB2h7mVhPg&list=PLIJrr73KDmRwz_7QUvQ9Az82aDM9I8L_8) - A Next.js App Router Playlist
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
