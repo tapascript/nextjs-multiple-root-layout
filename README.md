@@ -1,8 +1,19 @@
 ## How to use multiple root layouts in Next.js App Router?
 
-The source code in this repository has been used to teach a Next.js topic. Please find the video from here:
+The source code in this repository has been used to teach a Next.js topic. Please find the video here:
 
 <a href="https://youtu.be/X9_XqeqWBR0" title="multiple-root-layout"><img src="Next.js-multiple-root-layouts.png" alt="image" height="auto" width="100%"/></a>
+
+## 🫶 Support
+Liked it? You can show your support with a STAR(⭐).
+
+### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/tapascript/nextjs-multiple-root-layout?limit=15)](https://github.com/tapascript/nextjs-multiple-root-layout/stargazers)
+
+### Sponsor My Work
+
+I am an independent educator who creates meaningful projects to teach programming. You can support me further by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
 
 
 ## Running the app locally
